@@ -10,7 +10,7 @@
 
 > My version (ReactNative)
 
-![main-page](https://imgur.com/CnncJqt.jpg  | width=100 )
+![main-page](https://imgur.com/CnncJqt.jpg | width=100 )
 
 ![survey-page](https://imgur.com/wqCOUg5.jpg  | width=100)
 
