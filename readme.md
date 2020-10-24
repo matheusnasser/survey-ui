@@ -12,9 +12,10 @@
 
 (https://imgur.com/CnncJqt.jpg)
 
-(https://imgur.com/wqCOUg5)
+(https://imgur.com/wqCOUg5.jpg)
 
 
+(https://octodex.github.com/images/yaktocat.png)
 # Credits
 
 Dribble Link: https://dribbble.com/shots/11048776-Survey-App
