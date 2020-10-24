@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> Survey UI that i found on dribble and coded it using React Native + Styled Components
+> Survey UI that i found on dribble and coded it using <strong>React Native</strong> + <strong>Styled Components</strong>
 
 ## Code Samples
 
