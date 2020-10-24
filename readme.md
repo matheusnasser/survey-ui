@@ -10,8 +10,8 @@
 
 > My version (ReactNative)
 
-<img src="https://imgur.com/CnncJqt.jpg" alt="alt text" width="500px" height="800px">
-<img src="https://imgur.com/wqCOUg5.jpg" alt="alt text" width="500px" height="800px">
+<img src="https://imgur.com/CnncJqt.jpg" alt="alt text" width="500px" height="1200px">
+<img src="https://imgur.com/wqCOUg5.jpg" alt="alt text" width="500px" height="1200px">
 
 
 
