@@ -10,9 +10,10 @@
 
 > My version (ReactNative)
 
-![main-page](https://imgur.com/CnncJqt.jpg | width=100 )
+<img src="https://imgur.com/CnncJqt.jpg" alt="alt text" width="350px" height="500px">
+<img src="https://imgur.com/wqCOUg5.jpg" alt="alt text" width="350px" height="500px">
 
-![survey-page](https://imgur.com/wqCOUg5.jpg  | width=100)
+
 
 # Credits
 
