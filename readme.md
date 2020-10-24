@@ -10,10 +10,9 @@
 
 > My version (ReactNative)
 
-<p align="middle">
+
 <img src="https://imgur.com/CnncJqt.jpg" alt="alt text" width="600px" height="1200px">
 <img src="https://imgur.com/wqCOUg5.jpg" alt="alt text" width="600px" height="1200px">
-</p>
 
 
 # Credits
