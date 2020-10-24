@@ -10,12 +10,10 @@
 
 > My version (ReactNative)
 
-![main-page](https://imgur.com/CnncJqt.jpg)
+![main-page](https://imgur.com/CnncJqt.jpg  | width=100 )
 
-![survey-page](https://imgur.com/wqCOUg5.jpg)
+![survey-page](https://imgur.com/wqCOUg5.jpg  | width=100)
 
-
-(https://octodex.github.com/images/yaktocat.png)
 # Credits
 
 Dribble Link: https://dribbble.com/shots/11048776-Survey-App
