@@ -6,13 +6,13 @@
 
 ## Code Samples
 
-> Dribble UI (https://cdn.dribbble.com/users/1720296/screenshots/11048776/media/57525c35107d4e42acf0c97cc13d5633.png)
+> Dribble UI [!UI Design](https://cdn.dribbble.com/users/1720296/screenshots/11048776/media/57525c35107d4e42acf0c97cc13d5633.png)
 
 > My version (ReactNative)
 
-(https://imgur.com/CnncJqt.jpg)
+![main-page](https://imgur.com/CnncJqt.jpg)
 
-(https://imgur.com/wqCOUg5.jpg)
+![survey-page](https://imgur.com/wqCOUg5.jpg)
 
 
 (https://octodex.github.com/images/yaktocat.png)
